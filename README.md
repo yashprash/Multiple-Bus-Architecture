@@ -1,7 +1,7 @@
 Technology Stack: Java Swing, Java Applets
 
 Introduction:
-An interactive diagram of the multiple bus architecture system is implemented using Java Swing and applets. Two instructions are executed using the diagram and an animated, moving controller. The two instructions are: 
+This project is used to demonstrate the execution of assembly level instructions in multiple bus architecture, using a Java-based animation. An interactive diagram of the multiple bus architecture system is implemented using Java Swing and applets. Two instructions are executed using the diagram and an animated, moving controller. The two instructions are: 
 1) MOV (R2), R1 
 2) ADD R4, R5, R6. 
 The controller traces the path of the instructions to explicitly display each step of the command sequence specified. 
