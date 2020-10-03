@@ -1,4 +1,4 @@
-# multiple-bus-architecture
+# Multiple Bus Architecture
 
 Technology Stack: Java Swing, Java Applets
 
