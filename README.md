@@ -1,4 +1,4 @@
-# Multiple Bus Architecture
+# Simulation of Multiple Bus Architecture
 
 Technology Stack: Java Swing, Java Applets
 
