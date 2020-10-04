@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Simulation of Multiple Bus Architecture
 
-You can use the [editor on GitHub](https://github.com/yashprash/Multiple-Bus-Architecture/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Technology Stack
+Java Swing, Java Applets
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introduction
+This project is used to demonstrate the execution of assembly level instructions in multiple bus architecture, using a Java-based animation. An interactive diagram of the multiple bus architecture system is implemented using Java Swing and applets. Two instructions are executed using the diagram and an animated, moving controller. The two instructions are: 
+1) MOV (R2), R1 
+2) ADD R4, R5, R6. 
+The controller traces the path of the instructions to explicitly display each step of the command sequence specified. 
 
-### Markdown
+## Description
+On running the program, a window with two buttons, containing the ADD and the MOV instruction respectively, is displayed. Upon clicking one of the buttons, the execution of the command sequence corresponding to the assembly level instruction, is demonstrated. A clear, descriptive diagram of multiple bus architecture appears, drawn using Java applets and the paint method. Using the paint functions- drawLine, drawRect and drawPolygon, the figure and all its components are displayed, along with an animated controller represented by a small ball. The animation is designed using Java Swing. The actionListener is used to change the coordinates of the controller so that it would trace the instruction path for every step of the command sequence. Moreover, a timer is included which pauses the controller for a period of ten seconds before it performs the next step. Furthermore, before every step in the instruction sequence is performed by the controller, an audio explains the corresponding step. This informs the user of the step being performed and contributes to making the simulation more user friendly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yashprash/Multiple-Bus-Architecture/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Application
+Through this simulation, the user can develop a clear visual and conceptual understanding of the structure of Multiple Bus Architecture. The user will also be able to perceive the path of the movement of data during the execution of the control sequence of the provided assembly level instructions.
