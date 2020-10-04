@@ -23,7 +23,7 @@ Through this simulation, the user can develop a clear visual and conceptual unde
 
 ![3](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/3.png)
 
-### MOV (R1),R2 Instruction
+### MOV (R2),R1 Instruction
 ![4](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/4.png)
 
 ![5](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/5.png)
