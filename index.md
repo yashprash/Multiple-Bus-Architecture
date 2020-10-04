@@ -14,3 +14,16 @@ On running the program, a window with two buttons, containing the ADD and the MO
 
 ## Application
 Through this simulation, the user can develop a clear visual and conceptual understanding of the structure of Multiple Bus Architecture. The user will also be able to perceive the path of the movement of data during the execution of the control sequence of the provided assembly level instructions.
+
+### Main Window
+![1](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/1.png)
+
+### ADD R4,R5,R6 Instruction
+![2](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/2.png)
+
+![3](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/3.png)
+
+### MOV (R1),R2 Instruction
+![4](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/4.png)
+
+![5](https://raw.githubusercontent.com/yashprash/Multiple-Bus-Architecture/gh-pages/5.png)
